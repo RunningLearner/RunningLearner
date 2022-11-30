@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Certificates!
 
 #### Blockchain Basics 
-https://coursera.org/share/899ec6570b635b950d441c3c4f7081d7
+- https://coursera.org/share/899ec6570b635b950d441c3c4f7081d7
 
 #### Smart Contracts
-https://coursera.org/share/3648fecf7ff420cfed706566b86ccfcc
+- https://coursera.org/share/3648fecf7ff420cfed706566b86ccfcc
