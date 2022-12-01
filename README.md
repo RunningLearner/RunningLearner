@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 블록체인 개발자를 목표로 학습하고 있습니다!~ ^^
+https://aquamarine-clematis-620.notion.site/Running-Learner-296e343c2b0b4a70aa2e61ddbe4fcc3e
 
 
 
