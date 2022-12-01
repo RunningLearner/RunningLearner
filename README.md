@@ -26,12 +26,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RunningLearner&layout=compact&theme=great-gatsby)
 
-### Certificates!
-
-#### Blockchain Basics 
-- https://coursera.org/share/899ec6570b635b950d441c3c4f7081d7
-
-#### Smart Contracts
-- https://coursera.org/share/3648fecf7ff420cfed706566b86ccfcc
 
 ### [Learn more About Me!](https://aquamarine-clematis-620.notion.site/Running-Learner-296e343c2b0b4a70aa2e61ddbe4fcc3e)
