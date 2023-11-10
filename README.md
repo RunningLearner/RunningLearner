@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RunningLearner&layout=compact&theme=great-gatsby)
 
 
-### [More About Me!](https://aquamarine-clematis-620.notion.site/296e343c2b0b4a70aa2e61ddbe4fcc3e)
+### [More About Me!]([https://aquamarine-clematis-620.notion.site/296e343c2b0b4a70aa2e61ddbe4fcc3e](https://career.programmers.co.kr/pr/tkacnsdms_4148)https://career.programmers.co.kr/pr/tkacnsdms_4148)
