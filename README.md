@@ -1,8 +1,11 @@
-### Hi there 👋
+# Welcome to RunningLearner's astelier
 
-웹개발 전반에 관심이 많은 개발자입니다! <br>
-특히 비즈니스 로직을 구현하는 백엔드 개발을 좋아합니다! <br>
-사용자의 입장에서 서비스를 만들고 테스트를 통해 점검한 후, 전달합니다.
+## To be an artisan of code
+
+The expert at anything was once a beginner <br>
+Quality is not an act, it is a habit <br>
+Craftsmanship requires a fusion of skills, knowledge, understanding and imagination, tempered with patience <br>
+Skill in the art comes from diligence and hard work <br>
 
 
 
